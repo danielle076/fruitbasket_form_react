@@ -32,3 +32,15 @@ button:hover {
 div {
     padding: 5px;
 }
+
+fieldset {
+    padding: 5px;
+    width: 350px;
+    border: 1px solid black;
+    margin: 5px 0;
+}
+
+.error {
+    color: red;
+    font-size: small;
+}
