@@ -78,7 +78,7 @@ function App() {
                 <button onClick={subtractCountKiwi}>-</button>
             </div>
             <div>
-                <button className="resetButton" onClick={resetCount}>reset</button>
+                <button className="resetButton" onClick={resetCount}>Reset</button>
             </div>
         </>
     );
